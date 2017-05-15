@@ -1,0 +1,3 @@
+source venv/bin/activate
+export SFDC_USERNAME='<your-sfdc-username-here>'
+export SFDC_PASS='<your-sfdc-pass-plus-token-here>'
